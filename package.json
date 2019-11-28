@@ -1,0 +1,26 @@
+{
+  "name": "gitflow-kit",
+  "version": "1.0.0",
+  "description": "gitflow kit",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightink/gitflow-kit.git"
+  },
+  "keywords": [
+    "gitflow",
+    "kit"
+  ],
+  "author": "nightink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightink/gitflow-kit/issues"
+  },
+  "homepage": "https://github.com/nightink/gitflow-kit#readme",
+  "dependencies": {
+    "runscript": "^1.4.0"
+  }
+}
