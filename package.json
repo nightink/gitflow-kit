@@ -22,5 +22,8 @@
   "homepage": "https://github.com/nightink/gitflow-kit#readme",
   "dependencies": {
     "runscript": "^1.4.0"
-  }
+  },
+  "files": [
+    "lib"
+  ]
 }
